@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		int testNum = 25253;
-		 if(testNum > 1){
+		 if(testNum > 0){
 			 System.out.println("Number is Positive");
 		 }
  		else {
